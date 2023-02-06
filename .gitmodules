@@ -1,0 +1,3 @@
+[submodule "lib/Hallucen"]
+	path = lib/Hallucen
+	url = https://github.com/AnonymousBit0111/Hallucen
